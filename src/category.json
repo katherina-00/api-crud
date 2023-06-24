@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "name": "Frutas y Verduras"
+    },
+    {
+      "id": 2,
+      "name": "Carnes y Aves"
+    },
+    {
+      "id": 3,
+      "name": "Lácteos"
+    },
+    {
+      "id": 4,
+      "name": "Panadería"
+    },
+    {
+      "id": 5,
+      "name": "Bebidas"
+    }
+  ]

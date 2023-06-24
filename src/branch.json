@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Sucursal A",
+        "address": "Calle Principal 123"
+    },
+    {
+        "id": 2,
+        "name": "Sucursal B",
+        "address": "Avenida Central 456"
+    },
+    {
+        "id": 3,
+        "name": "Sucursal C",
+        "address": "Plaza Mayor 789"
+    }
+]
